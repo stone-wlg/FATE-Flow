@@ -1,8 +1,8 @@
 # Release 1.8.0
 ## Major Features and Improvements
-Optimize the model migration function to reduce user operation steps;
-Add version compatibility check in component center to support multiple parties to use different versions;
-Add data table disable/enable function, and support batch delete disable table
+* Optimize the model migration function to reduce user operation steps;
+* Add version compatibility check in component center to support multiple parties to use different versions;
+* Add data table disable/enable function, and support batch delete disable table
 
 # Release 1.7.2
 ## Major Features and Improvements
