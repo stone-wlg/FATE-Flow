@@ -27,7 +27,8 @@ nav:
     - configuration_instruction.md
     - system_operational.md
     - faq.md
-  #- API: swagger.md
+  - API:
+    - restful_api/swagger.md
 
 theme:
   name: material
