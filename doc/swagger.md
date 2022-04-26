@@ -1,3 +1,3 @@
 ## Swagger API
 
-!!swagger ../swagger.yaml!!
+!!swagger swagger.yaml!!
