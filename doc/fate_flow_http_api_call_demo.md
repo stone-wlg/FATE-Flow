@@ -1,9 +1,9 @@
-# REST API CLIENT
+# REST API 调用
 
-## 1. Description
-###  Use python request fate flow api
+## 1. 说明
+###  使用python请求fate flow 接口
 
-## 2. data upload/download
+## 2. 数据上传/下载
 
 ```python
 import json
@@ -61,7 +61,7 @@ def upload_history():
 
 
 ```
-## 2. table
+## 3. 数据表操作
 ```python
 import requests
 
@@ -127,7 +127,7 @@ def tracking_job():
 
 ```
 
-## 3. job
+## 4. 任务
 
 ```python
 
@@ -445,7 +445,7 @@ def clean_queue():
 
 ```
 
-## 4. tracking
+## 5. 指标
 ```python
 import tarfile
 
@@ -565,7 +565,7 @@ def component_list():
 component_list()
 ```
 
-## 5. resource
+## 6. 资源
 ```python
 import requests
 
@@ -588,7 +588,7 @@ def resource_return():
 resource_return()
 ```
 
-## 6. permission
+## 7. 权限
 ```python
 import requests
 

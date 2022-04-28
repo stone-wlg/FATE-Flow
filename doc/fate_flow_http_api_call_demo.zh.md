@@ -61,7 +61,7 @@ def upload_history():
 
 
 ```
-## 2. 数据表操作
+## 3. 数据表操作
 ```python
 import requests
 
@@ -127,7 +127,7 @@ def tracking_job():
 
 ```
 
-## 3. 任务
+## 4. 任务
 
 ```python
 
@@ -445,7 +445,7 @@ def clean_queue():
 
 ```
 
-## 4. 指标
+## 5. 指标
 ```python
 import tarfile
 
@@ -565,7 +565,7 @@ def component_list():
 component_list()
 ```
 
-## 5. 资源
+## 6. 资源
 ```python
 import requests
 
@@ -588,7 +588,7 @@ def resource_return():
 resource_return()
 ```
 
-## 6. 权限
+## 7. 权限
 ```python
 import requests
 
